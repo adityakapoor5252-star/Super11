@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Super11 Fantasy App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body{font-family:Arial;text-align:center;background:#fff;margin:0;padding:0;}
+    button{padding:15px 30px;font-size:18px;border:none;border-radius:8px;cursor:pointer;margin:10px;}
+    .red{background:#e53935;color:white;}
+    .black{background:#000;color:white;}
+    .features{list-style:none;text-align:left;display:inline-block;margin-top:20px;padding-left:0;}
+    .features li{margin:8px 0;}
+  </style>
+</head>
+<body>
+
+<h1 style="color:#e53935;">Super11 Fantasy App</h1>
+<p>Apni Skills Dikhao | Real Fantasy Sports</p>
+
+<!-- APK Download Button -->
+<a href="super11.apk" download>
+  <button class="red">Download APK</button>
+</a>
+
+<!-- Payment Button -->
+<a href="YOUR_CASHFREE_PAYMENT_LINK" target="_blank">
+  <button class="black">Add Money</button>
+</a>
+
+<h3>Features:</h3>
+<ul class="features">
+  <li>✅ Referral Bonus</li>
+  <li>✅ Skill-based Fantasy</li>
+  <li>✅ Safe UPI Payments</li>
+  <li>✅ Admin Control (Google Sheets)</li>
+  <li>✅ 18+ Only | Restricted states blocked</li>
+</ul>
+
+<p style="font-size:12px;margin-top:20px;">Android only | Fantasy Sports | Play responsibly</p>
+
+</body>
+</html>
